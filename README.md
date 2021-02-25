@@ -1,28 +1,13 @@
-# Machine-Learning-Notes(加载图片较慢，请耐心等待,只显示一部分)
+### Machine-Learning-Notes(加载图片较慢，请耐心等待,只显示一部分)
 周志华《机器学习》手推笔记~持续更新中
 
-## by 【计算机视觉联盟】 王博（Kings）、Sophia
+### by 【计算机视觉联盟】 王博（Kings）、Sophia
 
-## 手推笔记已经  150页 A4纸，可直接打印 ！！
+# 手推笔记已经  186页 A4纸，可直接打印 ！！
 
-*Last updated: 2020/06/03*   **更新第三版**
+*Last updated: 2021/01/04*   **更新**
 
 ## 【计算机视觉联盟】回复【西瓜书手推笔记】即可获得百度云pdf下载链接
-
-#### Update log
-* 2019/09/13 * - 更新第一章
-* 2019/09/20 * - 更新第二章
-* 2019/10/03 * - 更新第三章
-* 2019/11/05 * - 更新第四章
-* 2019/11/30 * - 更新第五章  46页
-* 2019/12/17 * - 更新第六章  62页
-* 2020/01/02 * - 更新第七章  75页
-* 2020/01/28 * - 更新第八章  96页 
-* 2020/02/14 * - 更新第九章  105页
-* 2020/03/27 * - 更新第十章  116页
-* 2020/04/14 * - 更新为第三版
-* 2020/05/16 * - 更新第十一章   129页
-* 2020/06/03 * - 更新第十二章   150页
 
 ## Table of Contents
 - [第一章绪论](https://github.com/Sophia-11/Machine-Learning-Notes/)
@@ -44,9 +29,9 @@
 
 
 ## 手推笔记作者简介--王博Kings
-微信号（Kingsplus）备注：单位/学校+研究方向 ，分享最新的AI思维导图和笔记
+微信号（Kingsplusa）备注：单位/学校+研究方向 ，分享最新的AI思维导图和笔记
 
-985AI博士，CSDN博客专家
+985AI博士，CSDN博客专家，华为云享专家
 
 已连载系列《机器学习》西瓜书手推笔记
 
@@ -111,16 +96,30 @@
 ![image](./ch6/%E6%89%AB%E6%8F%8F0012_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch6/%E6%89%AB%E6%8F%8F0013_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch6/%E6%89%AB%E6%8F%8F0014_%E5%89%AF%E6%9C%AC.jpg)|![image](./ch6/%E6%89%AB%E6%8F%8F0015_%E5%89%AF%E6%9C%AC.jpg)|
 
 ## 第七章    贝叶斯分类器
-![image](./ch7/062.jpg)
-![image](./ch7/063.jpg)
-![image](./ch7/064.jpg)
-![image](./ch7/065.jpg)
-![image](./ch7/066.jpg)
-![image](./ch7/067.jpg)
-![image](./ch7/068.jpg)
-![image](./ch7/069.jpg)
-![image](./ch7/070.jpg)
-![image](./ch7/071.jpg)
-![image](./ch7/072.jpg)
-![image](./ch7/073.jpg)
-![image](./ch7/074.jpg)
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch7/062.jpg)|![image](./ch7/063.jpg)|![image](./ch7/064.jpg)|![image](./ch7/065.jpg)|
+|![image](./ch7/066.jpg)|![image](./ch7/067.jpg)|![image](./ch7/068.jpg)|![image](./ch7/069.jpg)
+|![image](./ch7/070.jpg)|![image](./ch7/071.jpg)|![image](./ch7/072.jpg)|![image](./ch7/073.jpg)
+|![image](./ch7/074.jpg)|||--by 王博Kings| 
+
+## 第八章   集成信息
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch8/075.jpg)|![image](./ch8/076.jpg)|![image](./ch8/077.jpg)|![image](./ch8/078.jpg)|
+|![image](./ch8/079.jpg)|![image](./ch8/080.jpg)|![image](./ch8/081.jpg)|![image](./ch8/082.jpg)|
+|![image](./ch8/083.jpg)|![image](./ch8/084.jpg)|![image](./ch8/085.jpg)|![image](./ch8/086.jpg)|
+
+## 第九章   聚类
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch9/087.jpg)|![image](./ch9/088.jpg)|![image](./ch9/089.jpg)|![image](./ch9/090.jpg)|
+|![image](./ch9/091.jpg)|![image](./ch9/092.jpg)|![image](./ch9/093.jpg)|![image](./ch9/094.jpg)|
+
+
+## 第十章  降维与度量学习
+| 1 | 2 | 3 |4 |
+|:-----------:|:--------:|:---------:|:---------:|
+|![image](./ch10/095.jpg)|![image](./ch10/096.jpg)|![image](./ch10/097.jpg)|![image](./ch10/098.jpg)|
+|![image](./ch10/099.jpg)|![image](./ch10/100.jpg)|![image](./ch10/101.jpg)|![image](./ch10/102.jpg)|
+|![image](./ch10/103.jpg)|![image](./ch10/104.jpg)||--by 王博Kings|
